@@ -1,0 +1,6 @@
+[
+    { "description": "弱い攻撃", "damage": 10 },
+    { "description": "強い攻撃", "damage": 20 },
+    { "description": "致命的な攻撃", "damage": 50 },
+    { "description": "微弱な攻撃", "damage": 5 }
+]
